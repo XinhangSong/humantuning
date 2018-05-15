@@ -1,0 +1,239 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2017.8.23)  1 OCT 2017 16:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Paper
+(./Paper.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(./ws-p8-50x6-00.cls
+Document Class: ws-p8-50x6-00 1996/05/26 v1.3r Standard LaTeX document class
+\trimheight=\dimen102
+\trimwidth=\dimen103
+\typeheight=\dimen104
+\typewidth=\dimen105
+\tempdimen=\dimen106
+\normaltextheight=\dimen107
+\c@section=\count79
+\c@subsection=\count80
+\c@arabiclistc=\count81
+\c@figure=\count82
+\c@table=\count83
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 143.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+)) (./Paper.aux)
+\openout1 = `Paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+File: figs/eplftc.eps Graphic file (type eps)
+
+<figs/eplftc.eps>
+Underfull \hbox (badness 2384) in paragraph at lines 112--112
+\OT1/cmr/m/n/9 fam-ily of cat neu-ral tun-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+\OT1/cmr/m/n/9 and Liber-man of Eaton
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 119.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 119.
+
+Underfull \vbox (badness 2970) has occurred while \output is active []
+
+
+Overfull \hbox (6.79999pt too wide) has occurred while \output is active
+[]
+ []
+
+[1
+
+]
+File: figs/cmap.eps Graphic file (type eps)
+ <figs/cmap.eps>
+Overfull \hbox (38.22359pt too wide) in paragraph at lines 162--172
+ [] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 185.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 185.
+File: figs/ep1.eps Graphic file (type eps)
+<figs/ep1.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\OT1/cmr/m/n/9 here are the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\OT1/cmr/m/n/9 re-sult-ing ex-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\OT1/cmr/m/n/9 ta-tion pat-terns
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 207--207
+\OT1/cmr/m/n/9 lines have been
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\OT1/cmr/m/n/9 placed vi-su-ally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\OT1/cmr/m/n/9 on the curves
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 207--207
+\OT1/cmr/m/n/9 hav-ing slopes as
+ []
+
+
+Overfull \hbox (6.79999pt too wide) has occurred while \output is active
+[]
+ []
+
+[2]
+Overfull \hbox (6.79999pt too wide) has occurred while \output is active
+[]
+ []
+
+[3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 279.
+
+Overfull \hbox (6.79999pt too wide) has occurred while \output is active
+[]
+ []
+
+[4]
+File: figs/MaskedGain.eps Graphic file (type eps)
+ <figs/MaskedGain.eps>
+Underfull \hbox (badness 1173) in paragraph at lines 389--389
+\OT1/cmr/m/n/9 thresh-old probe in-ten-sity
+ []
+
+
+Overfull \hbox (6.79999pt too wide) has occurred while \output is active
+[]
+ []
+
+[5]
+File: figs/rectamodel.eps Graphic file (type eps)
+ <figs/rectamodel.eps>
+Underfull \hbox (badness 4242) in paragraph at lines 434--434
+\OT1/cmr/m/n/8 Figure 5.  \OT1/cmr/m/n/9 If the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+\OT1/cmr/m/n/9 par-ti-tion stiff-ness
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 434--434
+\OML/cmm/m/it/9 K[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 x\OT1/cmr/m/n/9 )$ is dom-i-
+nated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+\OT1/cmr/m/n/9 tec-to-rial mem-brane
+ []
+
+
+Underfull \hbox (badness 7203) in paragraph at lines 434--434
+\OT1/cmr/m/n/9 in-duced stiff-ness (a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+\OT1/cmr/m/n/9 dy-namic non-lin-ear
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+\OT1/cmr/m/n/9 com-po-nent of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+\OT1/cmr/m/n/9 the re-quired con-di-
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 434--434
+\OT1/cmr/m/n/9 tions si-mul-ta-ne-ously.
+ []
+
+
+Overfull \hbox (6.79999pt too wide) has occurred while \output is active
+[]
+ []
+
+[6] (./Paper.bbl)
+Overfull \hbox (6.79999pt too wide) has occurred while \output is active
+[]
+ []
+
+[7]
+Overfull \hbox (6.79999pt too wide) has occurred while \output is active
+[]
+ []
+
+[8] (./Paper.aux) ) 
+Here is how much of TeX's memory you used:
+ 698 strings out of 493030
+ 8388 string characters out of 6136260
+ 65691 words of memory out of 5000000
+ 4280 multiletter control sequences out of 15000+600000
+ 7726 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,12n,22p,1236b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Paper.dvi (8 pages, 32112 bytes).

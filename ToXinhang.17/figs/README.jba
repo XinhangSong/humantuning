@@ -1,0 +1,37 @@
+Oct 1, 2017:
+Converted the gif to png, and it seems to be identical. Maybe this will be easier to work with?
+
+Jul 4, 1999:
+Figures were first generated in:
+	/home/jba/doc/talks/aro.99/OAEprobe/Talk/figs
+and then in
+	/home/jba/doc/talks/aro.99/Tail/Talk/figs
+and finally in
+	/home/jba/doc/papers/Sendi.99/figs (-r150)
+
+The ftc file is a postscript file "ep.eps". Then eps2gif
+   /home/jba/Work/Cochlea/Doc/Sendai.99/Final/eps2gif)
+converts that to gif with -r150. Then "xfig ep1.fig"
+generates the final figure "ep1.eps"
+
+--------------
+The saga is long. The size of the gif file needs to match
+the rest of the figure, which is layed on top of the gif.
+Thus the expansion factor when converting from eps to gif
+format is critical.
+
+The first time, the command 'ps2gif' was used. Then I
+generated a script called 'eps2gif' which used -r50 as the
+expansion factor when calling gs
+
+It is not clear what the default value is, or was was used
+to make these figures. This means I cannot regenerate the 
+figure easily, unless I can recover the ep.gif file I use
+for ep0.fig and ep1.fig, as input to xfig!
+
+-r300x300 seems to work well, but generates too large a
+file. It seems the larger the resolution, the closer to
+the original size I get.
+
+The final value I settled on, and it wasn't really the value
+I used in the ARO paper, was -r150.

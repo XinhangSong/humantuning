@@ -1,0 +1,8 @@
+More about all these files in 
+/home/jba/USR/garbes/cochlea/epl
+
+The file tcpat.dat contains all the raw ftc data for the 6 cats.
+The linux-Lahey program ../filters/cnv_epl.f now converts
+	tcpat.dat -> h6.all
+
+read3.m reads h.all

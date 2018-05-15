@@ -1,0 +1,79 @@
+From - Thu Jan 20 12:46:57 2000
+Return-Path: <shera@epl.meei.harvard.edu>
+Received: from mail-blue.research.att.com (mail-blue.research.att.com [135.207.30.102])
+	by hermes.research.att.com (8.8.7/8.8.7) with ESMTP id LAA06084
+	for <jba@hermes.research.att.com>; Thu, 20 Jan 2000 11:47:41 -0500 (EST)
+Received: by mail-blue.research.att.com (Postfix)
+	id AC6314CE5A; Thu, 20 Jan 2000 11:47:04 -0500 (EST)
+Received: from epl.meei.harvard.edu (epl.meei.harvard.edu [12.0.59.51])
+	by mail-blue.research.att.com (Postfix) with SMTP id 6D6974CE27
+	for <jba@research.att.com>; Thu, 20 Jan 2000 11:47:04 -0500 (EST)
+Received: from epl.meei.harvard.edu (earwicker.meei.harvard.edu [12.0.59.137]) by epl.meei.harvard.edu (M8/EPL-00.01.05-NoSpam)
+	id LAA03076; Thu, 20 Jan 2000 11:44:51 -0500
+Delivered-To: jba@research.att.com
+Message-ID: <38873BC4.D136C19A@epl.meei.harvard.edu>
+Date: Thu, 20 Jan 2000 11:45:56 -0500
+From: Christopher Shera <shera@epl.meei.harvard.edu>
+Organization: Eaton-Peabody Laboratory of Auditory Physiology
+X-Mailer: Mozilla 4.7 [en] (WinNT; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Jont Allen <jba@research.att.com>, Paul Fahey <faheyp1@uofs.edu>
+Subject: Re: 2nd cochlear map
+References: <3885D740.F071BDC6@epl.meei.harvard.edu> <388722F2.463AE9D@research.att.com>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+X-Mozilla-Status: 8013
+X-Mozilla-Status2: 00000000
+X-UIDL: a2880997f60dd1ca5621a53a7f165fdd
+
+
+
+Jont Allen wrote:
+
+> I would need to see your data and the tuning curves
+> they were derived from I guess.
+
+I haven't seen Guinan's original tuning curves, nor do
+I know how he calculates the notch frequency. These
+are critical, I agree.
+
+However, out of curiousity I wrote a matlab script to analyze
+the Delgutte/Liberman data (which I sent you a copy
+of earlier; if you don't have it, let me know and I'll zip it up).
+I've attached my script, findnotch.m, along
+with a function it calls that you might not have (since
+I wrote it!), linear_fit.m.
+
+The script tries to estimate the notch frequency on
+those TCs where it looks like one might say that
+there's a notch. It also tries to estimate an approximate
+uncertainty in the notch frequency. Finally it fits
+a line to the resulting data (using the estimated
+uncertainties). The curve it gets is...
+    fz =0.457*CF^1.00 with an uncertainy in the slope of 0.04
+The script compares this with the 2nd cochlear map from your
+paper and plots up all the results.
+
+Now I'll be first to admit that the frequency of the notch
+is far from certain and that one might question my algorithm.
+(What algorithm/criterion did you use?)
+But, looking at the results it plots, I'd say it's usually
+pretty much in the right ball park. And the estimate of the
+uncertainty in the notch frequency (which seems
+like a critical piece of information) generally seems
+pretty good too.
+
+I'd appreciate comments on why my analysis
+is stellar, or why it's simply DOA.
+
+-Chris
+
+--
+Christopher Shera                               617-573-4235 voice
+Eaton-Peabody Laboratory                        617-720-4408 fax
+243 Charles Street, Boston, MA 02114-3096       http://epl.harvard.edu
+"Sadism and farce are always inexplicably linked." -- Alexander Theroux
+
+
+

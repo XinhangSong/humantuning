@@ -1,0 +1,38 @@
+We provide an analysis of the basal response of basilar membrane (BM)
+and cilia response for low frequency tonal stimulation.
+In the base, the BM impedance is $K_0 e^{-2ax}/i \omega$
+while the scala impedance is $i \omega \rho c A(x)$.
+Thus the pressure is very close to that in a ridged-walled
+box, namely $P(x) = i \omega \rho c (L-x) u_{st}$, since
+the BM impedance is much greater than the scala impedance.
+It follows from Hooke's Law that the BM displacement
+must vary in an exponential manner with place:
+$\xi(x,\omega) = - \omega^2 \rho c (L-x) u_{st} e^{2ax}/K_0$.
+
+Hair cells are known to be displacement detectors (Hudspeth and Corey, 1977).
+Above 1 kHz Dallos has found that the inner hair
+cell (IHC) responds to the shear displacement of the sub-tectorial
+space.  Direct measurements of the neural
+population by Kim et al., as well as transformations of populations
+of neural tuning curves from frequency to place (Allen, 1991),
+have shown that the basal neural response
+is independent of $x$. These results are consistent with
+two-tone suppression (Fahey and Allen, 1979)
+(and upward spread of masking) data which show that
+the low frequency suppression threshold is
+approximately independent of frequency.
+
+There are two possible explanations for the above contradiction.
+Either the inner and outer hair cell sensitivity must vary as
+$e^{-2ax}$, or the micromechanics of the tectorial membrane must
+transform the BM displacement shear signal from exponential to a constant
+place dependence. The evidence for a gradient in cilia sensitivity is in the
+direction of increased sensitivity for lower frequencies,
+because the cilia increase in length with place. This
+leaves us with the option that the TM to cilia stiffness
+ratio must vary as $e^{-2ax}$ to compensate for the $e^{2ax}$
+dependence of the BM displacement.
+
+A simple and natural solution to all these requirements is to assume that the
+linear component of the partition stiffness is dominated by the
+TM radial stiffness.  Model results support these conclusions.

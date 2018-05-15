@@ -1,0 +1,10 @@
+#!/bin/bash
+# Used to generate ep.gif file for inclusion in ep0.fig and ep1.fig
+# and expat.gif from expat.eps
+for b in "ep"
+do
+
+echo $b
+exec gs -sDEVICE=ppmraw -r150 -sOutputFile=- -sNOPAUSE -q $b.eps -c showpage -c quit | pnmcrop| pnmmargin 10 | ppmtogif >$b.gif
+
+done
